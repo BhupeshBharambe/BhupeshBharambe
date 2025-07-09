@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cloud & DevOps Engineer | Automating the Future ☁️</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"/>
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 </p>
 
 
